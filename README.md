@@ -115,7 +115,7 @@ One-line description.
 
 ## Connect & Socials / Связь
 
-[![Telegram](https://img.shields.io/badge/Telegram-07090e?style=flat-square&logo=telegram&logoColor=00e5ff)](https://t.me/YOUR_TELEGRAM)
-[![TG Channel](https://img.shields.io/badge/TG%20Channel-07090e?style=flat-square&logo=telegram&logoColor=00e5ff)](https://t.me/YOUR_CHANNEL)
-[![YouTube](https://img.shields.io/badge/YouTube-07090e?style=flat-square&logo=youtube&logoColor=00e5ff)](https://youtube.com/@YOUR_CHANNEL)
-[![GitHub](https://img.shields.io/badge/GitHub-07090e?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/Yar-Ice)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Lord666ice)
+[![TG Channel](https://img.shields.io/badge/TG_Channel-26A5E4?style=flat&logo=telegram&logoColor=white)](https://web.telegram.org/a/#-1003923141564)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Yar_Ice_Official)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yar-Ice)
